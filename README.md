@@ -3,4 +3,4 @@ natetest
 
 Test repo
 
-[secondpage] (secondpage)
+[secondpage] (secondpage.md)
